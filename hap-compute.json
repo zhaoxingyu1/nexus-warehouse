@@ -1,0 +1,7 @@
+{
+  "name": "nexus-wh",
+  "template": "blank",
+  "auth": true,
+  "database": false,
+  "storage": false
+}

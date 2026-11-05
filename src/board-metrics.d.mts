@@ -1,0 +1,1 @@
+export function boardMetrics(s:any):{active:any[];completed:any[];orders:number;onHand:number;reserved:number;shipped:number;busy:number;total:number;load:number;average:number|null;buckets:{start:number;end:number;quantity:number}[];zones:{zone:string;quantity:number}[]};
